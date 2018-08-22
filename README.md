@@ -6,5 +6,5 @@ Darknet is an open source neural network framework written in C and CUDA. It is 
 
 For more information see the [Darknet project website](http://pjreddie.com/darknet).
 
-For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
-Darknet是一个开源的C语言编写的卷积神经网络库，不依赖于第三方库，可以很方便的进行移植，并且效率非常高(毕竟是RGB大神之作)
+For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).  
+Darknet是一个开源的C语言编写的卷积神经网络库，不依赖于第三方库，可以很方便的进行移植，并且效率非常高(毕竟是RGB大神之作)，内部很多的操作参考了caffe中的实现
